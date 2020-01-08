@@ -15,6 +15,6 @@ Microsoft Edge Screenshots:
 ![alt-text](https://github.com/CallumGWilliams/Soft166/blob/master/PassChecker%20v2/PassChecker/images/edgeScreenshot1.png)
 ![alt-text](https://github.com/CallumGWilliams/Soft166/blob/master/PassChecker%20v2/PassChecker/images/edgeScreenshot2.png)
 
-Oracle Screenshots:
-![alt-text](https://github.com/CallumGWilliams/Soft166/blob/master/PassChecker%20v2/PassChecker/images/oracleScreenshot2.png)
-![alt-text](https://github.com/CallumGWilliams/Soft166/blob/master/PassChecker%20v2/PassChecker/images/oracleScreenshot2.png)
+Opera Screenshots:
+![alt-text](https://github.com/CallumGWilliams/Soft166/blob/master/PassChecker%20v2/PassChecker/images/operaScreenshot2.png)
+![alt-text](https://github.com/CallumGWilliams/Soft166/blob/master/PassChecker%20v2/PassChecker/images/operaScreenshot2.png)
