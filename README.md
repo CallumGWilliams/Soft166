@@ -6,4 +6,5 @@
 
 [Youtube Video](https://youtu.be/KaUvqc_aUKw)
 
-!(https://github.com/CallumGWilliams/Soft166/blob/master/PassChecker%20v2/PassChecker/images/chromeScreenshot1.png)
+InLine-style:
+![alt-text](https://github.com/CallumGWilliams/Soft166/blob/master/PassChecker%20v2/PassChecker/images/chromeScreenshot1.png)
