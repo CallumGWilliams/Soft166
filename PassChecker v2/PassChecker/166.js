@@ -7,11 +7,11 @@ var lightColour;
 
 function switchLightOff(lightID)  //This function takes a light ID number.  It then switches the given light on or off.
 {
-  var lightCommand = {"on": false}; //this creates a string of  { "on" : false }
+  var lightCommand = {"on": false}; // creates a string of  { "on" : false }
   var lightURI = "http://192.168.0.50/api/stlaB2I6VZ8O80Qepc-1xfmLrHgyTFvB9IGupaQz/lights/" + lightID + "/state/";
 
   $.ajax({
-    url: lightURI,  //calls function getLightURI (see below) and passes the required light ID
+    url: lightURI,  //calls function getLightURI & passes lightID
     type: "PUT",
     data: JSON.stringify(lightCommand)  //translates contents of lightCommand variable into jSON code
   })
@@ -32,7 +32,7 @@ function switchLightOn(lightID, lightColour) {
   })
 
 }
-
+//start function
 function Start(lightID, lightColour) {
   var tempPassword = document.getElementById("PasswordBox").value;
   var passStrength;
@@ -45,6 +45,7 @@ function Start(lightID, lightColour) {
     baseScore = 100
   }
 
+  //password algorithm
   var passLength = tempPassword.length - 5;
 
   if (passLength < 2) {
